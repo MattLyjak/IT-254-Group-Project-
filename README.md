@@ -1,7 +1,8 @@
 # IT-254-Group-Project-
 Group Project for IT 254. Our project is we are creating a simple home security system that has face detection and will open a door if the person detected is accpeted and is apart of that home. If the person detected is not apart of that home, then the door will not open for them.
 # This project was made with these other collaborators
-braydenbergman-bit
+[braydenbergman-bit](https://github.com/braydenbergman-bit)
+
 
 # Hardware used
 We used a 3d printed door model that we got from Tinkercad https://www.tinkercad.com/things/jrjchUGjqYP/edit?returnTo=%2Fdashboard%2Fdesigns%2F3d.
