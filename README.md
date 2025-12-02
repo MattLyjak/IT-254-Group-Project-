@@ -6,7 +6,7 @@ Group Project for IT 254. Our project is we are creating a simple home security 
 
 # Hardware used
 We used a 3d printed door model that we got from Tinkercad https://www.tinkercad.com/things/jrjchUGjqYP/edit?returnTo=%2Fdashboard%2Fdesigns%2F3d.
-We also used the Arduino kits to connect to the door and make it open.
+We also used the Ardunio Mega 2560 keypad with a motor connected to the door to open and close it. We also use our computer cameras to do the face detection.
 Our project is pretty much entirely based off this door model.
 # Instructions
 These are what we used to make our program function
