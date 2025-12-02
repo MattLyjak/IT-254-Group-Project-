@@ -11,6 +11,7 @@ Our project is pretty much entirely based off this door model.
 # Instructions
 Required hardware to make this work:
 -VSCode
+-Python
 -Ardunio 
 -Ardunio mega 2560 keypad
 -small 3d printed door 
