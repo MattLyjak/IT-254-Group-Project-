@@ -11,10 +11,10 @@ Our project is pretty much entirely based off this door model.
 # Instructions
 Required hardware to make this work:
 -VSCode
--Python
+-Python 3.11
 -Ardunio 
 -Ardunio mega 2560 keypad
--small 3d printed door 
+-small 3d printed door created using Tinkercad
 -Teachable machine 
 -web cam 
 
