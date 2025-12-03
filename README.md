@@ -21,4 +21,4 @@ Required hardware to make this work:
 # Getting the door to work
 Connecting the Ardunio kit motor to the door to get it to open was a challenge, but we were able to get a demo of the door that my groupmate made. 
 Once we got the demo door to work, we worked on our face recognition code and then 3d printed the new door. 
-We connected the code, door, and Arduino kit to finish the project. The final project consisted of our house that had the 3d printed door connected to it and all of the hardware inside the door. We then connect the Arduino kit to our laptop via USB and the code on our computer along with the web cam operates the door. 
+We connected the code, door, and Arduino kit to finish the project. The final project consisted of our house made of cardboard boxes, that had the 3d printed door connected to it and all of the hardware inside the house. We then connect the Arduino kit to our laptop via USB and the code on our computer along with the web cam operates the door. 
